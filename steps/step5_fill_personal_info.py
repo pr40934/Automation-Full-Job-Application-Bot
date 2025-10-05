@@ -1,5 +1,3 @@
-# steps/step5_fill_personal_info.py - Step 5: Fill personal information form
-
 import sys
 import os
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))

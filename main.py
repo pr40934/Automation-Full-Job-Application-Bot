@@ -1,5 +1,3 @@
-# main.py - Main execution script
-
 from utils.browser_utils import setup_driver
 from steps.step1_click_apply import click_apply_button
 from steps.step2_enter_email import enter_email

@@ -1,5 +1,3 @@
-# steps/step4_enter_password.py - Step 4: Enter password and login
-
 import sys
 import os
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))

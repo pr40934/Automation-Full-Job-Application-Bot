@@ -1,5 +1,3 @@
-# config.py - Configuration settings
-
 # Job application details
 JOB_URL = "https://careers-aeieng.icims.com/jobs/5417/engineering-data-analyst/job"
 REDIRECT_URL = "https://careers-aeieng.icims.com/jobs/5417/engineering-data-analyst/candidate?from=login&eem=otA4jR_Ym9vistiCWMd5N-31ML72-vRz8uuyrSTZGlpJFTXqBMH_1rl1UIiBQ4HZ&code=39f1d5b9f549392cee6b3e6a372432c5c9498d20e066b8a5204e6243867cc900"

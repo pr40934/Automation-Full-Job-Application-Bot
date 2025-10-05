@@ -1,5 +1,3 @@
-# utils/__init__.py
-
 """
 Utils package - Contains all utility functions for browser automation
 """

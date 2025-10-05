@@ -1,5 +1,3 @@
-# steps/__init__.py
-
 """
 Steps package - Contains all automation steps for job application
 """

@@ -1,5 +1,3 @@
-# steps/step3_handle_login.py - Step 3: Handle login redirect if it appears
-
 import sys
 import os
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
